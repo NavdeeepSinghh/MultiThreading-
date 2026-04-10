@@ -73,7 +73,7 @@ with ThreadPoolExecutor(max_workers=num_threads) as executor:
 
 | Threads | T=1 | T=2 | T=3 | T=4 | T=5 | T=6 | T=7 | T=8 | T=9 | T=10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Time (min)** | 110 | 101 | 120 | 138 | 120 | 119 | 119 | 120 | 125 | 123 |
+| **Time (sec)** | 110 | 101 | 120 | 138 | 120 | 119 | 119 | 120 | 125 | 123 |
 
 > 📝 Fill in your actual recorded times from `results.csv`
 
